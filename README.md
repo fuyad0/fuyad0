@@ -1,19 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Fuyad
+# 👋 Hi, I'm Mahbube Anam Fuyad
 
-### 💻 Backend Developer • Laravel • PHP • REST APIs
+### 💻 Backend Developer • Laravel • PHP • React • REST APIs
 
 <p>
-  <em>Building scalable web applications, APIs & backend systems.</em>
+  <em>Building scalable web applications, robust APIs, and interactive dashboards.</em>
 </p>
 
 <br>
 
-<a href="https://github.com/Webgenius0">
-  <img src="https://img.shields.io/badge/GitHub-Webgenius0-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/fuyad0">
+  <img src="https://img.shields.io/badge/GitHub-fuyad0-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -23,61 +23,27 @@
 
 ## 🧑‍💻 About Me
 
-```php
-<?php
+I am a Backend Developer currently working at **Softvence Agency (part of the Betopia Group)**. I specialize in crafting robust backend logic using PHP and Laravel, paired with dynamic frontend components in React. My focus lies in designing scalable database schemas, developing secure RESTful APIs, and building interactive data visualizations and analytics dashboards. 
 
-class Fuyad
-{
-    public string $role = "Backend Developer";
-
-    public array $focus = [
-        "Laravel",
-        "PHP",
-        "REST APIs",
-        "MySQL",
-        "Server Deployment"
-    ];
-
-    public array $interests = [
-        "Backend Architecture",
-        "API Development",
-        "System Design",
-        "DevOps",
-        "Problem Solving"
-    ];
-
-    public function currentlyLearning(): array
-    {
-        return [
-            "Docker",
-            "CI/CD",
-            "Cloud Infrastructure",
-            "Advanced Laravel Architecture"
-        ];
-    }
-}
-```
+I enjoy solving complex architectural problems, whether it involves integrating Firebase services for real-time notifications, calculating precise user activity streaks, or orchestrating seamless communication between external platforms and backend systems.
 
 ---
 
 ## ⚡ Tech Stack
 
-### Backend
-
+### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase" />
 </p>
 
-### Frontend
-
+### Frontend & Visualization
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### Database & Infrastructure
-
+### Infrastructure & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,linux,nginx,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github" />
 </p>
 
 ---
@@ -89,28 +55,21 @@ class Fuyad
 <td width="50%">
 
 ### 🔧 Backend Development
-
-* Laravel applications
-* RESTful APIs
+* Laravel architecture & RESTful APIs
+* MySQL schema design & optimization
 * Authentication & authorization
-* Database architecture
-* Admin dashboards
-* Background jobs
-* Scheduled tasks
+* Complex background jobs & scheduled tasks
+* Activity streak & logic tracking
 
 </td>
 
 <td width="50%">
 
-### 🌐 Deployment & Infrastructure
-
-* Linux servers
-* Nginx configuration
-* SSL certificates
-* DNS configuration
-* VPS deployment
-* Git-based deployment
-* Server troubleshooting
+### 📊 Frontend & Analytics
+* React component integration
+* Data visualization (Recharts)
+* Interactive admin dashboards
+* Real-time metrics & reporting
 
 </td>
 </tr>
@@ -119,27 +78,19 @@ class Fuyad
 <td width="50%">
 
 ### 🔗 Integrations
-
-* Payment gateways
-* Subscription systems
-* Webhooks
-* Firebase authentication
-* Email & SMTP
-* Third-party APIs
-* Excel/CSV processing
+* Firebase notification services
+* Payment gateways & subscriptions
+* Webhooks & Third-party APIs
+* Platform & credential management
 
 </td>
 
 <td width="50%">
 
-### 🤖 Hardware & IoT
-
-* ESP8266
-* ESP32
-* RFID
-* Fingerprint systems
-* Attendance systems
-* Hardware ↔ API integration
+### 🌐 Deployment & Infrastructure
+* Linux servers & Nginx configuration
+* VPS deployment & troubleshooting
+* Git-based CI/CD workflows
 
 </td>
 </tr>
@@ -147,43 +98,15 @@ class Fuyad
 
 ---
 
-# 🏗️ Featured Projects
+# 🏗️ Featured Expertise
 
-### 🎓 Attendance & Clearance Management System
+### 📈 Dashboard Analytics & Tracking Systems
+> Developing comprehensive activity trackers, screen time calculators, and data visualization dashboards.
+**Tech:** `React` `Recharts` `Laravel` `MySQL`
 
-> A complete digital solution for managing attendance and student clearance.
-
-**Tech:** `Laravel` `PHP` `MySQL` `JavaScript` `REST API`
-
-**Highlights**
-
-* 🖐️ Fingerprint attendance
-* 📡 RFID integration
-* 👨‍🎓 Student management
-* 📊 Attendance records
-* 📄 Clearance certificates
-* 🔌 API integration
-* 🖨️ Printable documents
-
----
-
-### 💳 Payment & Subscription Systems
-
-> Backend integrations for payment processing and subscription-based applications.
-
-**Worked with**
-
-`Payment APIs` • `Webhooks` • `Subscriptions` • `Invoices` • `Transaction Processing`
-
----
-
-### 🌐 Laravel Web Applications
-
-> Building complete database-driven applications from development to deployment.
-
-**Includes**
-
-`Authentication` • `RBAC` • `REST APIs` • `Admin Panels` • `Database Design` • `Third-party APIs`
+### 🔌 Advanced API Integrations
+> Designing seamless endpoints for authentication, real-time push notifications, and external platform connections.
+**Tech:** `PHP` `REST API` `Firebase` 
 
 ---
 
@@ -191,9 +114,9 @@ class Fuyad
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Webgenius0&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fuyad0&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webgenius0&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuyad0&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
@@ -203,7 +126,7 @@ class Fuyad
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Webgenius0&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=fuyad0&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -213,31 +136,19 @@ class Fuyad
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Webgenius0&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fuyad0&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+# 🧠 Currently Learning & Exploring
 
 <div align="center">
 
-`Docker` • `CI/CD` • `System Design` • `Cloud Infrastructure` • `Advanced Laravel`
+`Advanced React Patterns` • `System Design` • `Cloud Infrastructure` • `Docker` 
 
 </div>
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build scalable backend systems
-* 🧠 Improve system design skills
-* 🐳 Master Docker & containerization
-* ☁️ Improve cloud infrastructure knowledge
-* 🔐 Strengthen application security
-* ⚙️ Build better CI/CD pipelines
-* 📚 Contribute to open-source projects
 
 ---
 
@@ -245,7 +156,7 @@ class Fuyad
 
 <div align="center">
 
-> **"Write clean code. Solve real problems. Keep learning."**
+> **"Write clean code. Build scalable logic. Keep learning."**
 
 </div>
 
@@ -255,11 +166,11 @@ class Fuyad
 
 <div align="center">
 
-<a href="https://github.com/Webgenius0">
-<img src="https://img.shields.io/badge/GitHub-Webgenius0-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/fuyad0">
+<img src="https://img.shields.io/badge/GitHub-fuyad0-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -271,6 +182,6 @@ class Fuyad
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Webgenius0&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=fuyad0&style=for-the-badge&color=blueviolet" />
 
 </div>
