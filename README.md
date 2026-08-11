@@ -122,12 +122,12 @@ I enjoy solving complex architectural problems, whether it involves integrating 
 
 ---
 
+---
+
 # 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=fuyad0&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fuyad0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -135,10 +135,10 @@ I enjoy solving complex architectural problems, whether it involves integrating 
 # 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fuyad0&theme=tokyo-night&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuyad0&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=24283b&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
+
+---
 
 ---
 
